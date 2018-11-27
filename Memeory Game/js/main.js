@@ -1,5 +1,3 @@
-console.log("Up and running!");
-
 var cards = [
     {
         rank: "Queen",
